@@ -1,0 +1,14 @@
+mysql:
+  host: "localhost"
+  user: "root"
+  password: "0421"
+  dbase: "northwind"
+  port: "3306"
+postgresql:
+  url: "jdbc:postgresql://localhost:5432/Northwind"
+  password: "0421"
+  user: "postgres"
+  driver_name: "org.postgresql.Driver"
+  
+
+  
